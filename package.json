@@ -9,10 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "axios": "^1.7.3",
     "expo": "~51.0.24",
     "expo-status-bar": "~1.12.1",
+    "lodash": "^4.17.21",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-axios": "^0.17.1",
+    "react-native-heroicons": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
